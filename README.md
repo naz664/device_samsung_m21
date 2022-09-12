@@ -13,6 +13,7 @@ export ALLOW_MISSING_DEPENDENCIES=true && . build/envsetup.sh && lunch omni_m21-
 ```
 ## Credits
 - [Yilliee](https://github.com/Yilliee)
+- [Satham Hussain](https://github.com/SathamHussainM)
 - [Soulr344](https://github.com/soulr344)
 
 
