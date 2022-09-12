@@ -11,6 +11,8 @@ git clone https://github.com/naz664/device_samsung_m21.git device/samsung/m21 -b
 ```
 export ALLOW_MISSING_DEPENDENCIES=true && . build/envsetup.sh && lunch omni_m21-eng && mka recoveryimage -j$(nproc --all)
 ```
-
+## Credits
+- [Yilliee](https://github.com/Yilliee)
+- [Soulr344](https://github.com/soulr344)
 
 
